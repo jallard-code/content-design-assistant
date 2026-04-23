@@ -30,6 +30,7 @@ git clone https://github.com/jallard-code/content-design-assistant.git
 Copy `content-design-assistant.md` into your personal Claude skills directory so it's available across all your projects:
 
 ```
+cd content-design-assistant
 mkdir -p ~/.claude/skills/content-design-assistant
 cp content-design-assistant.md ~/.claude/skills/content-design-assistant/SKILL.md
 ```
